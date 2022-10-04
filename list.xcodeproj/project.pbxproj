@@ -16,6 +16,8 @@
 		3D27DCA728E9A02300C9A6B0 /* listTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D27DCA628E9A02300C9A6B0 /* listTests.swift */; };
 		3D27DCB128E9A02300C9A6B0 /* listUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D27DCB028E9A02300C9A6B0 /* listUITests.swift */; };
 		3D27DCB328E9A02300C9A6B0 /* listUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D27DCB228E9A02300C9A6B0 /* listUITestsLaunchTests.swift */; };
+		3D27DCC028EC485000C9A6B0 /* memo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D27DCBF28EC485000C9A6B0 /* memo.swift */; };
+		3D27DCC428EC4B8900C9A6B0 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D27DCC328EC4B8900C9A6B0 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		3D27DCAC28E9A02300C9A6B0 /* listUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = listUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D27DCB028E9A02300C9A6B0 /* listUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listUITests.swift; sourceTree = "<group>"; };
 		3D27DCB228E9A02300C9A6B0 /* listUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3D27DCBF28EC485000C9A6B0 /* memo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = memo.swift; sourceTree = "<group>"; };
+		3D27DCC328EC4B8900C9A6B0 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				3D27DC9828E9A02300C9A6B0 /* Assets.xcassets */,
 				3D27DC9A28E9A02300C9A6B0 /* LaunchScreen.storyboard */,
 				3D27DC9D28E9A02300C9A6B0 /* Info.plist */,
+				3D27DCBF28EC485000C9A6B0 /* memo.swift */,
+				3D27DCC328EC4B8900C9A6B0 /* TableViewController.swift */,
 			);
 			path = list;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 				3D27DC9428E9A02200C9A6B0 /* ViewController.swift in Sources */,
 				3D27DC9028E9A02200C9A6B0 /* AppDelegate.swift in Sources */,
 				3D27DC9228E9A02200C9A6B0 /* SceneDelegate.swift in Sources */,
+				3D27DCC428EC4B8900C9A6B0 /* TableViewController.swift in Sources */,
+				3D27DCC028EC485000C9A6B0 /* memo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
