@@ -17,6 +17,7 @@ class list {
     
     static var memoList = [
         list(content: "kk"),
-        list(content: "kkk")
+        list(content: "kkk"),
+        list(content: "kkkk")
     ]
 }
