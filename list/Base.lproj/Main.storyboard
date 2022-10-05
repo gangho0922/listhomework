@@ -39,7 +39,9 @@
                             <outlet property="delegate" destination="AW2-g7-Onr" id="Nzt-bD-awp"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Todos" id="eOc-Vu-tkU"/>
+                    <navigationItem key="navigationItem" title="Todos" id="eOc-Vu-tkU">
+                        <barButtonItem key="rightBarButtonItem" title="Item" id="PoD-7i-3eF"/>
+                    </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jdL-2w-DPY" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
